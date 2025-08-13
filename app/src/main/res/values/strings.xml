@@ -1,3 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">resourcecheck</string>
+    <string name="app_name">Overlay Checker</string>
+    <string name="overlay_checker_title">Overlay Checker</string>
+    <string name="app_info_icon_description">App Info</string>
+    <string name="enter_overlay_resource_name_placeholder">Enter resource name</string>
+    <string name="check_value_button">Check Value</string>
+    <string name="result_prefix">Result: %1$s</string>
+    <string name="predefined_values_title">Quick Access Resources</string>
+    <string name="dialog_ok_button">Got it</string>
+    <string name="dialog_about_title">About</string>
+    <string name="dialog_about_version">Version: 2.0</string>
+    <string name="dialog_about_developer">Developer: HP Night Owl</string>
+
+    <!-- Predefined resource tags -->
+    <string name="tag_config_show_navigation_bar">config_showNavigationBar</string>
+    <string name="tag_config_remote_insets_controller_controls_system_bars">config_remoteInsetsControllerControlsSystemBars</string>
+    <string name="tag_config_local_displays_mirror_content">config_localDisplaysMirrorContent</string>
+    <string name="tag_config_use_round_icons">config_useRoundIcon</string>
 </resources>
