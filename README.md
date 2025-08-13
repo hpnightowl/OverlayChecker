@@ -23,7 +23,7 @@ When working with Android theming, device customizations, or Runtime Resource Ov
 
 | Main Screen                                   | 
 | :--------------------------------------------: |
-| <img width="1080" height="600" alt="Screenshot_1755116449" src="https://github.com/user-attachments/assets/165931db-fce7-4411-8116-85508ef5fb14" />|
+| <img width="1014" height="583" alt="image" src="https://github.com/user-attachments/assets/b260854d-7160-4559-9e2d-45b1cf51089e" /> |
 
 
 ## How to Launch
